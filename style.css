@@ -1,0 +1,73 @@
+
+body{
+  background-color: aqua;
+}
+
+
+#calcSpace {
+  border: solid orange;
+  margin: auto;
+  margin-top: 5em ;
+  width: 22.9em;  
+  box-shadow: 1em 1em 1em 1em;
+  background-color:black;
+}
+
+#answer {
+  height: 1.8em;
+  color:white;
+  font-size: 3em ;
+}
+#smallAnswer {
+  width: 10.8em;
+  height: 1.8em;
+  color:white;
+  font-size: 2em ;
+  float:left;
+
+}
+
+.calcButton {
+  height: 7em;
+  width: 7em;
+  display: inline-block;
+  margin-right: -.5em;
+  margin-top: -1.5em;
+  background-color: white;
+  border: solid 3px;
+  font-weight: bold; 
+}
+
+#zero {
+  width: 13.863em
+}
+
+#c {
+  background-color: red;
+}
+
+#divided {
+  background-color: orange;
+}
+#times {
+  background-color: orange;
+}
+#minus {
+  background-color: orange;
+}
+
+#plus {
+  background-color: orange;
+}
+
+#equals {
+  background-color: orange;
+}
+
+#plusMinus {
+  background-color: orange;
+}
+
+#percentage {
+  background-color: orange;
+}
